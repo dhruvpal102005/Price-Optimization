@@ -15,12 +15,8 @@ Ensure you have the following installed:
 - `pip` for package management
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/price-optimization-rl.git
-cd price-optimization-rl
-```
-### Install Dependencies
-```bash
-pip install -r requirements.txt
+git clone https://github.com/dhruvpal102005/Price-Optimization
+cd Price-Optimization
 ```
 ---
 ## Project Structure
