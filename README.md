@@ -19,27 +19,6 @@ git clone https://github.com/dhruvpal102005/Price-Optimization
 cd Price-Optimization
 ```
 ---
-## Project Structure
-```
-price-optimization-rl/
-│
-├── data/
-│   └── soapnutshistory.csv         # Sample historical sales data
-│
-├── src/
-│   ├── __init__.py
-│   ├── environment.py               # Custom Gym environment
-│   ├── agent.py                     # Deep Q-Network agent implementation
-│   └── train.py                     # Training script
-│
-├── notebooks/
-│   └── analysis.ipynb               # Jupyter notebook for data analysis
-│
-├── requirements.txt                 # Project dependencies
-├── README.md                        # Project documentation
-└── main.py                          # Main execution script
-```
----
 ## Usage
 ### Training the Model
 ```python
